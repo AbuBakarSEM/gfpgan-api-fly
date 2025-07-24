@@ -1,7 +1,1 @@
-flask
-numpy
-torch==2.5.1
-basicsr
-facexlib
-realesrgan
-opencv-python-headless
+# نثبّت كل شيء من render-build.sh
